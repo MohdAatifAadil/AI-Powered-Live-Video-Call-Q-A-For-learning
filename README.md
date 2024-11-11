@@ -12,25 +12,6 @@ Personalized Feedback: The AI tailors its reponses based on student interactions
 Course Upload: Instructors can upload their lessons to help the AI learn and Improve its answers.
 Interactive Interface: Student and instructors can interact with the AI through a simple interface during the class.
 
-# Technoloies used:
-Backed: Python, flask (for creatinf the API, TensorFlow / PyTorch (for AI models)
-Fronted: ReactJS (For the student and instructor dashboard)
-Real_time Communication: WebRTC (For live video communication)
-Speech-To-Text: Google Cloud Speech-to-text (for transcribing live video)
-Database: PostgreSQL or MongoDB (for storing course materials and student data)
-AI Models: Open AI GPT, Hugging Face Transformers (for natural language processing)
-
-# Getting Started
-1.Python 3.x
-2. Node.js (for the frontend)
-3 Docker (optional for containerization)
-4. Google cloud account (for speech-to-text api)
-5. OpenAI API Key (for GPT integration)
-
-# API Endpoints:
-GET/api/ask: Allows student to ask questions during a live session, and the AI provides answers.
-POST/api/upload-course: Allows instructors to upload lesson for the AI to learn from.
-
 # Contributing
 
 If you'd like to contribute to this project feel free.
