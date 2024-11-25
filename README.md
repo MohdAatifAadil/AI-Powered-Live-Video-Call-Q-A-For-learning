@@ -1,4 +1,4 @@
-# AI-Powered-Live-Video-Call-Q-A-For-learning
+# Study AI
 AI Learning Platform for Instruction and Student Interaction
 
 Study AI is an independent, AI-Powered educational platform desined to change the way learning and teaching happen.
