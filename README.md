@@ -1,21 +1,11 @@
 # AI-Powered-Live-Video-Call-Q-A-For-learning
 AI Learning Platform for Instruction and Student Interaction
 
-# AI Learning Assistant
-This project is an AI tool that helps student during live video classes by answering their question in real-time. The AI listens to the lessons, learns from the content, and provide accurate answers to student questions, making learning more interactive and efficient. for example like zoom call with class teacher
+Study AI is an independent, AI-Powered educational platform desined to change the way learning and teaching happen.
+Teachers upload course meterials (Video, PDFs, slides, Images, Audio, pptx, articles, links.), which the system uses to autonomonusly learn and understand the content.
+The AI Then assists in live Video Call by reasoning through complex question, providing real-time, contextually relevant answers based on the uploaded materials.
 
-# Key Features:
-
-Real-Time Q&A: Student can ask questions during live classes, and the AI will provide answers instantly.
-AI learning: AI continuously learns from uploaded  course materials (Video, slides, documents) to improve its ability to answer questions.
-Personalized Feedback: The AI tailors its reponses based on student interactions, offering more relevant information.
-Course Upload: Instructors can upload their lessons to help the AI learn and Improve its answers.
-Interactive Interface: Student and instructors can interact with the AI through a simple interface during the class.
-
-# Contributing
-
-If you'd like to contribute to this project feel free.
-We Welcome everyone to contribute.
-
-# License:
-This project is open source and licensed under the MIT License. you can freely use, modify, and distribute the code.
+The platform uses advanced NPL models for understanding, processing, and generating responses, with continuous self-learning from student interactions to improve over time.
+Importantly, Study AI operates entirely without the uses of external APIs-everything from training the AI to generating responses is managed internally within the platform.
+This ensures full control over the system and eliminates dependency on third-party services, enabling scalability and customization.
+The result is a fully autonomous, personized learning assistant that can be applied across subjects and learning enviroments, providing instant feedback and enabling efficient, interactive learning at scale.
