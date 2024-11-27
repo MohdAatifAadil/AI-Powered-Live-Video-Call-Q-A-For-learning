@@ -4,6 +4,8 @@ AI Learning Platform for Instruction and Student Interaction
 Study AI is an independent, AI-Powered educational platform desined to change the way learning and teaching happen.
 Teachers upload course meterials (Video, PDFs, slides, Images, Audio, pptx, articles, links.), which the system uses to autonomonusly learn and understand the content.
 The AI Then assists in live Video Call by reasoning through complex question, providing real-time, contextually relevant answers based on the uploaded materials.
+![image](https://github.com/user-attachments/assets/074fe193-88eb-4d9d-bf4b-d53d562bcc83)
+
 
 The platform uses advanced NPL models for understanding, processing, and generating responses, with continuous self-learning from student interactions to improve over time.
 Importantly, Study AI operates entirely without the uses of external APIs-everything from training the AI to generating responses is managed internally within the platform.
